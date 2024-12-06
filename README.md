@@ -68,7 +68,11 @@ El modelo principal utilizado fue un **Random Forest Classifier**, seleccionado 
    - El modelo proporciona una herramienta útil para priorizar clientes en función de su riesgo crediticio.
    - Hay oportunidad de mejorar el rendimiento del modelo mediante la ingeniería de características o el uso de técnicas avanzadas como XGBoost o LightGBM.
 
-### Este proyecto sigue en proceso, por lo que se agradece el feedback y recomendaciones
+---
+
+## Este proyecto sigue en proceso, por lo que se agradece el feedback y recomendaciones
+
+---
 
 ## Cómo Ejecutarlo
 
