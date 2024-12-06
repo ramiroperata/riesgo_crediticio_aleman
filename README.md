@@ -81,4 +81,4 @@ El modelo principal utilizado fue un **Random Forest Classifier**, seleccionado 
    git clone https://github.com/ramiroperata/riesgo_crediticio_aleman.git
    cd riesgo_crediticio_aleman
 
-2. Ejecuta el noteboke
+2. Ejecuta el notebook
